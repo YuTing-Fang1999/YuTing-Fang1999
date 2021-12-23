@@ -17,7 +17,7 @@ My name is YuTing, Fang.
 * Data Structure (資料結構)
 * R (R語言作業)
 * Simple Encryption Implementation (簡單加密實作)
-* Color Transfer
+* Color Transfer (色彩學)
 
 ### Example Code(範例程式碼)
 * C++ PlaySound
