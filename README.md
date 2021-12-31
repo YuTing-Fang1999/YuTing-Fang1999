@@ -2,18 +2,18 @@
 My name is YuTing, Fang.   
 
 ### Exercise(刷題) 
-* UVA
-* CPE
+* [UVA](https://github.com/YuTing-Fang1999/UVA100)
+* [CPE](https://github.com/YuTing-Fang1999/CPE)
 
 ### Project(作品)
-* Korean Learning System (韓語學習系統)
-* Stock Analysis System (股票分析系統)
+* [Korean Learning System](https://github.com/YuTing-Fang1999/KoreanLearing-mini) (韓語學習系統)
+* [Stock Analysis System](https://github.com/YuTing-Fang1999/Final-Project) (股票分析系統)
 * OpenGL Game (opengl 小遊戲)
 * ChromeExtention of Preventing SSLstrip (防止SSLstrip的擴充功能)
 
 ### HW(課程作業)
-* Algorithm (演算法)
-* Data Structure (資料結構)
+* [Algorithm](https://github.com/YuTing-Fang1999/Algorithms-Java) (演算法)
+* [Data Structure](https://github.com/YuTing-Fang1999/Data-Structure) (資料結構)
 
 <!--
 **YuTing-Fang1999/YuTing-Fang1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
