@@ -9,11 +9,14 @@ My name is YuTing, Fang.
 * [Korean Learning System](https://github.com/YuTing-Fang1999/KoreanLearing-mini) (韓語學習系統)
 * [Stock Analysis System](https://github.com/YuTing-Fang1999/Final-Project) (股票分析系統)
 * OpenGL Game (opengl 小遊戲)
-* ChromeExtention of Preventing SSLstrip (防止SSLstrip的擴充功能)
+* [ChromeExtention of Preventing SSLstrip](https://github.com/YuTing-Fang1999/ChromeExtension) (防止SSLstrip的擴充功能)
+* [Graph Analysis](https://github.com/YuTing-Fang1999/PlotGraph) (關係圖分析系統)
 
 ### HW(課程作業)
 * [Algorithm](https://github.com/YuTing-Fang1999/Algorithms-Java) (演算法)
 * [Data Structure](https://github.com/YuTing-Fang1999/Data-Structure) (資料結構)
+* [OS-Lab](https://github.com/YuTing-Fang1999/OS-lab)(作業系統實驗)
+
 
 <!--
 **YuTing-Fang1999/YuTing-Fang1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
