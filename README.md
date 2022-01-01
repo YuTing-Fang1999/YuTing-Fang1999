@@ -5,6 +5,9 @@ My name is YuTing, Fang.
 * [UVA](https://github.com/YuTing-Fang1999/UVA100)
 * [CPE](https://github.com/YuTing-Fang1999/CPE)
 
+### College Student Research(大專生計畫)
+* [BERT-Compression](https://github.com/YuTing-Fang1999/BERT-Compression) (BERT QG模型壓縮)
+
 ### Project(作品)
 * [Korean Learning System](https://github.com/YuTing-Fang1999/KoreanLearing-mini) (韓語學習系統)
 * [Stock Analysis System](https://github.com/YuTing-Fang1999/Final-Project) (股票分析系統)
