@@ -5,6 +5,7 @@ My name is YuTing, Fang.
 * 韓語學習系統的即時查詞字幕要直接顯示在影片裡
 * 優化股票分析系統
 * 每天刷一題UVA
+* 製作台灣政治交流論壇
 
 ### Exercise(刷題) 
 * [UVA](https://github.com/YuTing-Fang1999/UVA100)
