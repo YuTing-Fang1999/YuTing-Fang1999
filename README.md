@@ -4,7 +4,7 @@ My name is YuTing, Fang.
 #### 目前打算要做的事
 * 韓語學習系統的即時查詞字幕要直接顯示在影片裡
 * 優化股票分析系統
-* 每天刷兩題UVA
+* 每天刷一題UVA
 
 ### Exercise(刷題) 
 * [UVA](https://github.com/YuTing-Fang1999/UVA100)
