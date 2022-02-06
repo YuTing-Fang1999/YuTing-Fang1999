@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is YuTing, Fang.   
+Currently planning to enroll in Master of NTU CSIE in advance. 
 
 #### 目前打算要做的事
 每天刷CPE的考古題，準備3/8報名CPE
