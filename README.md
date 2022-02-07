@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is YuTing, Fang.   
-Currently planning to enroll in Master of NTU CSIE in advance. 
 
 #### 目前打算要做的事
-每天刷CPE的考古題，準備3/8報名CPE
+每天刷CPE的考古題，準備3/8報名CPE  
+好好修課，希望能夠提早畢業  
 
 #### 有空要做的事
 * 韓語學習系統的即時查詞字幕要直接顯示在影片裡
