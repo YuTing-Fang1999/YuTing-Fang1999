@@ -10,6 +10,9 @@ My name is YuTing, Fang.
 * 優化股票分析系統
 * 製作台灣政治交流論壇
 
+### [NTU-Lab](https://github.com/YuTing-Fang1999/NTU-Lab)
+
+
 ### Exercise(刷題) 
 * [UVA](https://github.com/YuTing-Fang1999/UVA100)
 * [CPE](https://github.com/YuTing-Fang1999/CPE)
