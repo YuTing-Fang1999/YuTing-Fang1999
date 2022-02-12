@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is YuTing, Fang.   
+I am now studying at the NTU Graduate School of CSIE.   
 
 #### 目前打算要做的事
 每天刷CPE的考古題，準備3/8報名CPE  
