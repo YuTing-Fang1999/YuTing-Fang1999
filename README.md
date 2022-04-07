@@ -2,10 +2,6 @@
 My name is YuTing, Fang.   
 I am now studying at the NTU Graduate School of CSIE.   
 
-#### 目前打算要做的事
-每天刷CPE的考古題
-好好修課，希望能夠提早畢業  
-
 #### 有空要做的事
 * 韓語學習系統的即時查詞字幕要直接顯示在影片裡
 * 優化股票分析系統
