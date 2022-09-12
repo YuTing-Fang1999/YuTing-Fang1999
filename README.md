@@ -26,9 +26,9 @@ I am now studying at the NTU Graduate School of CSIE.
 * [escape_react_server](https://github.com/YuTing-Fang1999/escape_react_server) (密室逃脫計畫)
 
 ### HW(課程作業)
-* [Algorithm](https://github.com/YuTing-Fang1999/Algorithms-Java) (演算法)
-* [Data Structure](https://github.com/YuTing-Fang1999/Data-Structure) (資料結構)
-* [OS-Lab](https://github.com/YuTing-Fang1999/OS-lab)(作業系統實驗)
+* [Algorithm](https://github.com/YuTing-Fang1999/NCHU-Algorithms-Java) (演算法)
+* [Data Structure](https://github.com/YuTing-Fang1999/NCHU-Data-Structure) (資料結構)
+* [OS-Lab](https://github.com/YuTing-Fang1999/NCHU-OS-lab)(作業系統實驗)
 
 
 <!--
