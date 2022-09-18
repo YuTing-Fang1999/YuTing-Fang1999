@@ -16,7 +16,7 @@ I am now studying at the NTU Graduate School of CSIE.
 * [BERT-Compression](https://github.com/YuTing-Fang1999/BERT-Compression) (BERT QG模型壓縮)
 
 ### Project(作品)
-* [live2d-web-with-face-detection](https://github.com/YuTing-Fang1999/live2d-web-with-face-detection)
+* [live2d-web-with-face-detection](https://github.com/YuTing-Fang1999/live2d-web-with-face-detection) (vtuber網頁版)  
 * [Korean Learning System](https://github.com/YuTing-Fang1999/KoreanLearing-mini) (韓語學習系統)
 * [Stock Analysis System](https://github.com/YuTing-Fang1999/Final-Project) (股票分析系統)
 * [OpenGL Game](https://github.com/Maxspace1024/the_Road_on_GhostLand) (opengl 小遊戲)
