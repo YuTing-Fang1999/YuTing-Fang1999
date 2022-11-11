@@ -9,6 +9,7 @@ I am now studying at the NTU Graduate School of CSIE.
 
 
 ### Exercise(刷題) 
+* [LeetCode](https://github.com/YuTing-Fang1999/LeetCode)
 * [UVA](https://github.com/YuTing-Fang1999/UVA100)
 * [CPE](https://github.com/YuTing-Fang1999/CPE)
 
