@@ -21,7 +21,7 @@ I am now studying at the NTU Graduate School of CSIE.
 * [Korean Learning System](https://github.com/YuTing-Fang1999/KoreanLearing-mini) (韓語學習系統)
 * [Stock Analysis System](https://github.com/YuTing-Fang1999/Final-Project) (股票分析系統)
 * [OpenGL Game](https://github.com/Maxspace1024/the_Road_on_GhostLand) (opengl 小遊戲)
-* [ChromeExtention of Preventing SSLstrip](https://github.com/YuTing-Fang1999/ChromeExtension) (防止SSLstrip的擴充功能)
+* [ChromeExtension of Preventing SSLstrip](https://github.com/YuTing-Fang1999/ChromeExtension) (防止SSLstrip的擴充功能)
 * [Graph Analysis](https://github.com/YuTing-Fang1999/PlotGraph) (關係圖分析系統)  
 * [escape_react_server](https://github.com/YuTing-Fang1999/escape_react_server) (密室逃脫計畫)
 
